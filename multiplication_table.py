@@ -7,4 +7,5 @@ m1 = mul_1(1)
 m2 = mul_1(2)
 zip = zip(m1,m2)
 print(zip)
-print(m1 + "|" + m2)
+
+#print(m1 + "|" + m2)
